@@ -6,7 +6,7 @@ make sure that your build is x64 and that c++ standard is set to 14
 
 
 ## How to run
-create a text file with all of the ip ranges you want to search
-here is an example of a ip range 0.0.0.0-255.255.255.255(don't use this!)
+create a text file with all of the ip ranges you want to search.
+Here is an example of a ip range 0.0.0.0-255.255.255.255(don't use this!)
 make sure you keep each range on seperate lines without spaces
-use https://suip.biz to find ip ranges
+use https://suip.biz to find ip ranges (Use ad block to get rid of annoying ads)
